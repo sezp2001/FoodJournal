@@ -1,0 +1,105 @@
+body{
+    background-image: url('images/background.gif');
+}
+
+div.content{
+    border: 2px solid;
+    border-radius: 10px; 
+    border-color:rgb(255, 182, 193);
+    margin-left: 10%;
+    margin-right: 10%;
+}
+div{
+    background-color: rgb(135,206,250)
+}
+header {
+    border: 3px solid rgb(139, 83, 139);
+    border-radius: 10px;
+    text-align: center;
+    font-family: "Papyrus", Charcoal, fantasy;
+    font-size: 25px;
+    background-color:rgb(255, 182, 193);
+    background-image: url('images/junk.jpeg');
+    background-size: 5.5cm;
+    background-position: center;
+    background-repeat: repeat;
+    
+   }
+
+span{
+    border-bottom-style:solid;
+    border-width: 5px;
+}
+h2{
+    border-bottom-style:solid;
+    border-width: 5px;
+}
+h3{
+    border-bottom-style:solid;
+    border-width: 5px;
+}
+
+div.entry{
+    border-style : solid;
+    border-radius: 10px;
+    border-width: 3px;
+    font-family: "Papyrus", Charcoal, fantasy;
+    border-color:rgb(168,213,255);
+    background-color:rgb(255, 182, 193);
+    margin-top: 10px;
+    padding: 5px;
+    overflow: auto;
+    border: 25px solid transparent;
+    padding: 25px;
+    border-image: url('https://www.freepnglogos.com/uploads/golden-border-png/golden-border-gold-frame-border-png-gold-frame-border-png-clip-art-9.png')90 stretch;
+    border-image-width: 1cm;
+}
+div.links{
+    border-style : solid;
+    border-width: 3px;
+    border-radius: 10px;
+    height: 200px;
+    font-family: "Papyrus", Charcoal, fantasy;
+    border-color:rgb(12, 19, 26);
+    background-color:rgb(255, 182, 193);
+    margin-top: 10px;
+    padding: 5px;
+    overflow: auto;
+    border: 36px solid transparent;
+    padding: 25px;
+    border-image: url('https://www.freepnglogos.com/uploads/golden-border-png/golden-border-gold-frame-border-png-gold-frame-border-png-clip-art-9.png')90 stretch;
+    border-image-width: 1cm;
+}
+img {
+    float: right;
+}
+div.center{
+    text-align:center;
+    border-radius: 10px;
+    background-color: rgb(135,206,250);
+    font-family: "Georgia", Charcoal, sans-serif;
+}
+.list{
+    background-color: rgb(255, 182, 193);
+    border-style:solid;
+    border-radius: 10px;
+    margin-top: 10px;
+    border-color:rgb(138, 83, 138);
+    margin-bottom: 1000px;
+    float: right;
+    width:150px;
+    padding:10px;
+    margin-right:5px;
+}
+.locations{
+    background-color: rgb(255, 182, 193);;;
+    border-style: transparent;
+    height: 200px;
+    float:inline-end;
+    font-family: "Papyrus", Charcoal, fantasy;
+}
+nav ul{
+    text-align:left;
+    list-style-type:none;
+    font-family: "Papyrus", Charcoal, fantasy;
+}
